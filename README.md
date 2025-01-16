@@ -1,6 +1,7 @@
 #20331 & 20312
 
 Simple Calculator
+
 A basic calculator application written in Java that performs simple arithmetic operations like addition, subtraction, multiplication, and division. The project uses Swing for creating a graphical user interface (GUI), which makes it easy for users to interact with the application.
 
 -----Features
