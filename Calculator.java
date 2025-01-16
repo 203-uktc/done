@@ -4,7 +4,6 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class Calculator {
-    // Create the frame
     private JFrame frame;
     private JTextField textField;
 
